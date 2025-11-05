@@ -81,16 +81,7 @@ docker run -p 8080:8080 background-remover-backend
 2. The app removes the background using **ClipDrop API**.  
 3. Pay securely via **Razorpay** to download the final image.  
 4. Manage your history and payments securely.
-
----
-
-## 📸 Screenshots
-
-| Home Page | Result Page |
-|-----------|-------------|
-| ![Home Screenshot](screenshots/d88a5766-049f-4028-8d0d-9a0c44e9d1df.png) | ![Result Screenshot](screenshots/result.png) |
-
-
+5. 
 ---
 
 ## 🧾 API References
